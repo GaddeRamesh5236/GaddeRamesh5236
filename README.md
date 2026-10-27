@@ -1,11 +1,9 @@
 
 <div align="center">
 
-<img src="github-banner.png" alt="Ramesh Gadde - Data Science and AI" width="100%"/>
+<img src="./github-banner.png" alt="Ramesh Gadde - Data Science and AI" width="100%"/>
 
-</div>
-
-
+# Ramesh Gadde
 
 ### Data Science | Machine Learning | Python | Generative AI
 
@@ -28,15 +26,11 @@ Building data-driven solutions and exploring AI technologies.
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python, SQL
-
-**Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
-
-**Machine Learning:** Regression, Classification, Clustering, EDA
-
-**AI & Development:** Generative AI, LangChain, Streamlit, Flask
-
-**Tools:** Git, GitHub, Docker, Jupyter Notebook
+- **Programming:** Python, SQL
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Machine Learning:** Regression, Classification, Clustering, EDA
+- **AI & Development:** Generative AI, LangChain, Streamlit, Flask
+- **Tools:** Git, GitHub, Docker, Jupyter Notebook
 
 ## 🚀 Featured Projects
 
