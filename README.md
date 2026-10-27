@@ -1,7 +1,11 @@
 
 <div align="center">
 
-#  RAMESH GADDE
+<img src="github-banner.png" alt="Ramesh Gadde - Data Science and AI" width="100%"/>
+
+</div>
+
+
 
 ### Data Science | Machine Learning | Python | Generative AI
 
