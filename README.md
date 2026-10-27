@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Ramesh Gadde
+#  RAMESH GADDE
 
 ### Data Science | Machine Learning | Python | Generative AI
 
